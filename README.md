@@ -6,5 +6,15 @@ Please follow the next instructions:
 After that extract the .ZIP to a folder
 Open the folder and drag the folder that's inside to %appdata%/.minecraft/versions
 
-Done!```
+Done!
+
+Doesn't work?
+Follow this:
+
+Open the file that's in versions, 
+Then open the MeatBreaker.json
+
+Change the name to MeatBreakerClient and try again.
+
+
 
